@@ -1,0 +1,18 @@
+{
+  "name": "unslopovich",
+  "displayName": "Dr. Unslopovich",
+  "version": "3.0.0",
+  "description": "Detecta y corrige interfaces con aspecto generado por IA o plantilla en apps móviles, apps web y sitios web, priorizando fricción real de usuario. Activo globalmente por defecto con /unsloop-on, /unsloop-off y /unsloop-status.",
+  "author": {
+    "name": "jdsgnrinfo (basado en Erkam Yaman)",
+    "url": "https://github.com/jdsgnrinfo"
+  },
+  "homepage": "https://github.com/jdsgnrinfo/unsloop-antigravity",
+  "repository": "https://github.com/jdsgnrinfo/unsloop-antigravity",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "/unslopovich review my app",
+    "/unslopovich treat the main screen",
+    "/unsloop-status"
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="unslopovich">
+  <rect width="240" height="240" rx="28" fill="#111317"/>
+  <!-- the patient: a phone with a list on it -->
+  <rect x="62" y="44" width="96" height="164" rx="16" fill="none" stroke="#E9E4DC" stroke-width="7"/>
+  <rect x="96" y="56" width="28" height="6" rx="3" fill="#E9E4DC"/>
+  <rect x="78" y="82" width="54" height="7" rx="3.5" fill="#6B6F78"/>
+  <rect x="78" y="100" width="40" height="7" rx="3.5" fill="#6B6F78"/>
+  <rect x="78" y="118" width="48" height="7" rx="3.5" fill="#6B6F78"/>
+  <rect x="78" y="136" width="30" height="7" rx="3.5" fill="#6B6F78"/>
+  <!-- the doctor: a stethoscope listening to it -->
+  <path d="M170 38 C 166 70, 180 84, 196 84 C 212 84, 222 70, 218 38" fill="none" stroke="#E2862A" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="170" cy="34" r="6" fill="#E2862A"/>
+  <circle cx="218" cy="34" r="6" fill="#E2862A"/>
+  <path d="M196 84 C 196 120, 206 150, 186 170" fill="none" stroke="#E2862A" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="168" cy="178" r="22" fill="#E2862A"/>
+  <circle cx="168" cy="178" r="11" fill="#111317"/>
+</svg>
